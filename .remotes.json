@@ -1,0 +1,14 @@
+[
+  {
+    "package": "htmltools",
+    "url": "https://github.com/rstudio/htmltools",
+    "via": ["learnr"],
+    "from": "learnr"
+  },
+  {
+    "package": "shinytest",
+    "url": "https://github.com/rstudio/shinytest",
+    "via": ["learnr"],
+    "from": "learnr"
+  }
+]
