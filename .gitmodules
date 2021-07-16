@@ -18,8 +18,8 @@
 	url = https://github.com/AgRoMeteorologiaINTA/siga
 	shallow = true
 	registered = true
-[submodule "sisintar"]
-	path = sisintar
+[submodule "SISINTAR"]
+	path = SISINTAR
 	url = https://github.com/INTA-Suelos/SISINTAR
 	shallow = true
 	registered = true
@@ -28,18 +28,18 @@
 	url = https://github.com/yabellini/learnres
 	shallow = true
 	registered = true
-[submodule "tutorialiterar"]
-	path = tutorialiterar
+[submodule "TutorialIterar"]
+	path = TutorialIterar
 	url = https://github.com/yabellini/TutorialIterar
 	shallow = true
 	registered = true
-[submodule "textminingtutorial"]
-	path = textminingtutorial
+[submodule "TextMiningTutorial"]
+	path = TextMiningTutorial
 	url = https://github.com/yabellini/TextMiningTutorial
 	shallow = true
 	registered = true
-[submodule "tutorialgraficosfn"]
-	path = tutorialgraficosfn
+[submodule "TutorialgRaficosFN"]
+	path = TutorialgRaficosFN
 	url = https://github.com/yabellini/tutorialgRaficosFN
 	shallow = true
 	registered = true
