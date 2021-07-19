@@ -48,6 +48,11 @@
 	url = https://github.com/rstudio/htmltools
 	shallow = true
 	registered = false
+[submodule "scPDSI"]
+	path = scPDSI
+	url = https://github.com/Sibada/scPDSI
+	shallow = true
+	registered = false
 [submodule "shinytest"]
 	path = shinytest
 	url = https://github.com/rstudio/shinytest
