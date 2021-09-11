@@ -43,8 +43,3 @@
 	url = https://github.com/yabellini/tutorialgRaficosFN
 	shallow = true
 	registered = true
-[submodule "scPDSI"]
-	path = scPDSI
-	url = https://github.com/Sibada/scPDSI
-	shallow = true
-	registered = false
