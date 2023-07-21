@@ -1,45 +1,28 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/yabellini/yabellini.r-universe.dev
-	shallow = true
 	branch = HEAD
 [submodule "learnr"]
 	path = learnr
 	url = https://github.com/rstudio/learnr
-	shallow = true
-	registered = true
 [submodule "agromet"]
 	path = agromet
 	url = https://github.com/AgRoMeteorologiaINTA/agromet
-	shallow = true
-	registered = true
 [submodule "siga"]
 	path = siga
 	url = https://github.com/AgRoMeteorologiaINTA/siga
-	shallow = true
-	registered = true
 [submodule "SISINTAR"]
 	path = SISINTAR
 	url = https://github.com/INTA-Suelos/SISINTAR
-	shallow = true
-	registered = true
 [submodule "learnres"]
 	path = learnres
 	url = https://github.com/yabellini/learnres
-	shallow = true
-	registered = true
 [submodule "TutorialIterar"]
 	path = TutorialIterar
 	url = https://github.com/yabellini/TutorialIterar
-	shallow = true
-	registered = true
 [submodule "TextMiningTutorial"]
 	path = TextMiningTutorial
 	url = https://github.com/yabellini/TextMiningTutorial
-	shallow = true
-	registered = true
 [submodule "TutorialgRaficosFN"]
 	path = TutorialgRaficosFN
 	url = https://github.com/yabellini/tutorialgRaficosFN
-	shallow = true
-	registered = true
