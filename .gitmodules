@@ -2,27 +2,27 @@
 	path = .registry
 	url = https://github.com/yabellini/yabellini.r-universe.dev
 	branch = HEAD
-[submodule "learnr"]
-	path = learnr
-	url = https://github.com/rstudio/learnr
-[submodule "agromet"]
-	path = agromet
-	url = https://github.com/AgRoMeteorologiaINTA/agromet
-[submodule "siga"]
-	path = siga
-	url = https://github.com/AgRoMeteorologiaINTA/siga
 [submodule "SISINTAR"]
 	path = SISINTAR
 	url = https://github.com/INTA-Suelos/SISINTAR
-[submodule "learnres"]
-	path = learnres
-	url = https://github.com/yabellini/learnres
-[submodule "TutorialIterar"]
-	path = TutorialIterar
-	url = https://github.com/yabellini/TutorialIterar
 [submodule "TextMiningTutorial"]
 	path = TextMiningTutorial
 	url = https://github.com/yabellini/TextMiningTutorial
+[submodule "TutorialIterar"]
+	path = TutorialIterar
+	url = https://github.com/yabellini/TutorialIterar
 [submodule "TutorialgRaficosFN"]
 	path = TutorialgRaficosFN
 	url = https://github.com/yabellini/tutorialgRaficosFN
+[submodule "agromet"]
+	path = agromet
+	url = https://github.com/AgRoMeteorologiaINTA/agromet
+[submodule "learnr"]
+	path = learnr
+	url = https://github.com/rstudio/learnr
+[submodule "learnres"]
+	path = learnres
+	url = https://github.com/yabellini/learnres
+[submodule "siga"]
+	path = siga
+	url = https://github.com/AgRoMeteorologiaINTA/siga
