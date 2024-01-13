@@ -14,9 +14,9 @@
 [submodule "TutorialgRaficosFN"]
 	path = TutorialgRaficosFN
 	url = https://github.com/yabellini/tutorialgRaficosFN
-[submodule "agromet"]
-	path = agromet
-	url = https://github.com/AgRoMeteorologiaINTA/agromet
+[submodule "agroclimatico"]
+	path = agroclimatico
+	url = https://github.com/AgRoMeteorologiaINTA/agroclimatico
 [submodule "learnr"]
 	path = learnr
 	url = https://github.com/rstudio/learnr
