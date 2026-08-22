@@ -17,9 +17,6 @@
 [submodule "agroclimatico"]
 	path = agroclimatico
 	url = https://github.com/AgRoMeteorologiaINTA/agroclimatico
-[submodule "learnr"]
-	path = learnr
-	url = https://github.com/rstudio/learnr
 [submodule "learnres"]
 	path = learnres
 	url = https://github.com/yabellini/learnres
